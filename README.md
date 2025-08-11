@@ -1,6 +1,6 @@
-Aplicação web para consulta e visualização de cotações de ativos da B3
+# Aplicação web para consulta e visualização de cotações de ativos da B3
 
-# 🚀 Instruções de Execução - B3 Challenge
+## 🚀 Instruções de Execução - B3 Challenge
 
 ## Execução:
 
