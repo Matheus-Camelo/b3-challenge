@@ -21,4 +21,4 @@ cd frontend
 npm install
 npm run dev --host
 ```
-### (se der erro, pode forçar o install com npm i --force)
+### (se der erro, pode forçar o install com 'npm i --force')
