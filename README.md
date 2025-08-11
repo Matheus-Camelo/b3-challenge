@@ -1,8 +1,6 @@
 # Aplicação web para consulta e visualização de cotações de ativos da B3
 
-## 🚀 Instruções de Execução - B3 Challenge
-
-## Execução:
+## Instruções de Execução da aplicação: 
 
 ### 1. Backend (Terminal 1)
 ```
